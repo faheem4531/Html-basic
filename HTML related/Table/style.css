@@ -1,0 +1,21 @@
+th,td,tr,table{
+    border: 1px solid rgb(235, 231, 231);
+    padding: 10px;
+    border-collapse: collapse;
+}
+th{
+    background-color: rgb(130, 230, 130);
+}
+tr:nth-child(even) {
+background-color: rgba(31, 160, 74, 0.4);
+}
+.remove{
+border: 0px;
+}
+
+table
+{
+    width:100%;
+    text-align: center;
+    margin-top: 100px;
+}

@@ -1,0 +1,59 @@
+table{
+    width: 100%;;
+}
+th,td,table{
+    padding: 10px;
+    border-collapse: collapse;
+   
+}
+table{
+margin-bottom: 80px;
+}
+tr {
+border-bottom: 1px solid  rgba(221, 216, 216, 0.836) ;
+}
+.color{
+    background-color: rgba(221, 216, 216, 0.836);
+    padding: 10px;
+}
+.top{padding: 10px;}
+select{
+    padding: 7px;
+    width: 150px;
+    border-color:  rgba(221, 216, 216, 0.836);
+}
+input{
+    padding: 5px;
+    width: 50px;
+    border-color:  rgba(221, 216, 216, 0.836);
+}
+button{
+    padding: 6px;
+    width: 90px;
+}
+.green
+{
+    color: rgb(60, 207, 60);
+}
+.btn{
+    background-color:  rgb(60, 207, 60);
+    color: white;
+    border: 0px;
+    width: 120px;
+}
+.bottominput{
+    width: 125px;
+    padding: 7px;
+    padding-left: 15px;
+    margin-right: 20px;
+    
+}
+h3{
+    text-align: center;
+    color: grey;
+}
+
+form{
+    text-align: end;
+    margin-right: 60px;
+}
